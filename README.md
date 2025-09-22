@@ -1,1 +1,1 @@
-# asset-pricing-assignment
+# Asset Pricing Assignment 2
